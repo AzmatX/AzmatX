@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
+</div>
 
-<!--
-**AzmatX/AzmatX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I am Azmat Siddique</h1>
+<h3 align="center">Civil Engineering Undergraduate • Data Science Learner • Aspiring IES Officer</h3>
 
-Here are some ideas to get you started:
+<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AzmatX&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
+
+- 🔭 I’m currently working on **Civil Engineering Core + Data Science Fundamentals**
+- 🌱 Learning deeply **Probability, Statistics, Linear Algebra**
+- 🎯 Preparing for **GATE 2026 + IES Civil**
+- 👯 I’m looking to collaborate on **Civil + Data Science based projects**
+- ⚡ Fun fact: *Balancing books, builds and belief everyday*
+
+<br><br>
+
+<h1 style="display: inline;">💻 Tech Stack:</h1>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E34F26.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+# 📊 GitHub Stats:
+<img src="https://streak-stats.demolab.com?user=AzmatX&theme=aura&hide_border=true&card_width=550"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AzmatX&theme=aura&include_all_commits=true&hide_border=true&rank_icon=github"/>
+
+# 🏆 GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=AzmatX&theme=onestar&no-frame=true" width="800"/>
+
+# ✨ Badges
+[![An image of @AzmatX's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/AzmatX)](https://holopin.io/@AzmatX)
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
