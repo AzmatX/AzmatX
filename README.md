@@ -5,7 +5,7 @@
 <h1 align="center">I am Azmat Siddique</h1>
 <h3 align="center">Civil Engineering Undergraduate • Data Science Learner • Aspiring IES Officer</h3>
 
-<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad">
+<img align="right" width="280" src="https://raw.githubusercontent.com/smallsco/smallsco/master/octocat.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AzmatX&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
