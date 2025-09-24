@@ -11,11 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=AzmatX&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-- 🔭 I’m currently working on **Civil Engineering Core + Data Science Fundamentals**
-- 🌱 Learning deeply **Probability, Statistics, Linear Algebra**
-- 🎯 Preparing for **GATE 2026 + IES Civil**
+- 🔭 I’m currently pursuing undergraduate on **Civil Engineering (Regular) - JMI + Data Science (Distance) - IITM**
+- 🌱 Learning deeply **Probability, Statistics, Machine Learning Foundations**
+- 🎯 Preparing for **GATE DA as well as GATE CE**
 - 👯 I’m looking to collaborate on **Civil + Data Science based projects**
-- ⚡ Fun fact: *Balancing books, builds and belief everyday*
+- ⚡ Fact of multiple domains: *Balancing books, builds and belief everyday*
 
 <br><br>
 
