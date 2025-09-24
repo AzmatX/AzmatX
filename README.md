@@ -35,7 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AzmatX&theme=aura&include_all_commits=true&hide_border=true&rank_icon=github"/>
 
 # 🏆 GitHub Trophies
-<img src="https://github-trophies.vercel.app/?username=AzmatX&theme=onestar&no-frame=true" width="800"/>
+
 
 # ✨ Badges
 [![An image of @AzmatX's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/AzmatX)](https://holopin.io/@AzmatX)
