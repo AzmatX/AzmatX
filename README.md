@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">I am Azmat Siddique</h1>
-<h3 align="center">Civil Engineering Undergraduate • Data Science Learner • Aspiring IES Officer</h3>
+<h3 align="center">Civil Engineering Undergraduate • Data Science Learner • Exploring Generative AIr</h3>
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/smallsco/smallsco/master/octocat.gif">
 
