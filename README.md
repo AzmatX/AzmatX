@@ -5,13 +5,13 @@
 <h1 align="center">I am Azmat Siddique</h1>
 <h3 align="center">Civil Engineering Undergraduate • Data Science Learner • Exploring Generative AI</h3>
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/smallsco/smallsco/master/octocat.gif">
+<img align="right" width="282" src="https://raw.githubusercontent.com/smallsco/smallsco/master/octocat.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AzmatX&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-- 🔭 I’m currently pursuing undergraduate on **Civil Engineering (Regular) - JMI + Data Science (Distance) - IITM**
+- 🔭 I am currently pursuing undergraduate on **Civil Engineering (Regular) - JMI + Data Science (Distance) - IITM**
 - 🌱 Learning deeply **Probability, Statistics, Machine Learning Foundations**
 - 🎯 Preparing for **GATE DA as well as GATE CE**
 - 👯 I’m looking to collaborate on **Civil + Data Science based projects**
